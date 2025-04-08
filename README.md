@@ -9,5 +9,5 @@ December 2024, and has since provideded continuous real-time, high fidelity soil
 location.
 
 This network is intended to aid in monitoring, modeling and managing regional agriculture, energy,
-biodiversity, soil health,and water resources.
+biodiversity, soil health, and water resources.
 
