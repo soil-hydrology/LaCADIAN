@@ -8,6 +8,6 @@ The first LaCaDIAN node was operationalized at Doyle Chambers Central Research S
 December 2024, and has since provideded continuous real-time, high fidelity soil and climate data for the 
 location.
 
-This network is intended to aid in monitoring, modeling and managing regional agriculture, energ,
+This network is intended to aid in monitoring, modeling and managing regional agriculture, energy,
 biodiversity, soil health, and water resources.
 
