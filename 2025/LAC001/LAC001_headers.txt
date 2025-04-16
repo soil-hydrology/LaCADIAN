@@ -1,6 +1,7 @@
 Site: LAC001 - Ben Hur
-Date Processed: 2025-04-14
-Column numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37
-Column names: Date, target_temperature, body_temperature, air_temperature, atmospheric_pressure, vapor_pressure, max_air_temperature, min_air_temperature, solar_radiation, total_precipitation, max_precipitation_rate, wind_speed, wind_direction, tilt_angle, lightning_distance, lightning_activity, RH_sensor_temperature, gust_speed, VPD, drop_counts, spoon_tips, EC, water_content_5cm, soil_temperature_5cm, saturation_extract_EC_5cm, matric_potential_5cm, soil_temperature_5cm_2, water_content_20cm, soil_temperature_20cm, saturation_extract_EC_20cm, matric_potential_20cm, soil_temperature_20cm_2, water_content_50cm, soil_temperature_50cm, saturation_extract_EC_50cm, matric_potential_50cm, soil_temperature_50cm_2
-Automated upload using R and GitHub API.
+Latitude: 30.3734605
+Longitude: -91.1636043
+Date Processed: 2025-04-16
+Column numbers: 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 21, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38
+Column names: Date, target_temperature, body_temperature, air_temperature, atmospheric_pressure, vapor_pressure, max_air_temperature, min_air_temperature, solar_radiation, total_precipitation, max_precipitation_rate, wind_speed, wind_direction, tilt_angle, lightning_distance, lightning_activity, RH_sensor_temperature, gust_speed, VPD, drop_counts, spoon_tips, EC, water_content_5cm, soil_temperature_5cm, saturation_extract_EC_5cm, matric_potential_5cm, soil_temperature_5cm_2, water_content_20cm, soil_temperature_20cm, saturation_extract_EC_20cm, matric_potential_20cm, soil_temperature_20cm_2, water_content_50cm, soil_temperature_50cm, saturation_extract_EC_50cm, matric_potential_50cm, soil_temperature_50cm_2, Soil water content and soil matric potential measurements are taken at depth 5cm, 20cm and 50cm
 Contact: share.lab.lsu@gmail.com
