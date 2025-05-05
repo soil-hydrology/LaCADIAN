@@ -1,8 +1,8 @@
 Site: LAC001 - Ben Hur
 Latitude: 30.3734605
 Longitude: -91.1636043
-Time Zone: UTC-05
-Date Processed: 2025-05-02
+Time Zone: UTC
+Date Processed: 2025-05-05
 Soil water content and soil matric potential measurements are taken at depth 5cm, 20cm and 50cm
 
 ----- DAILY SUMMARY COLUMNS -----
